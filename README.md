@@ -14,15 +14,6 @@ I build robotics software with a focus on **LiDAR SLAM**, **LiDAR-IMU fusion**, 
 - 🧭 Interests: state estimation, point-cloud registration, sensor fusion, and autonomous robots
 - 🛠️ Main tools: C++, ROS, Eigen, PCL, Linux, Git, and Python
 
-## Featured project
-
-<a href="https://github.com/Shidabot/FASTLIO2-DCReg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shidabot&repo=FASTLIO2-DCReg&theme=tokyonight&hide_border=true" />
-</a>
-
-<br />
-
-**FASTLIO2-DCReg** is a ROS1 LiDAR-inertial mapping project based on [FAST_LIO](https://github.com/hku-mars/FAST_LIO) and [DCReg](https://github.com/JokerJohn/DCReg/tree/main), with an integrated degeneracy-aware pose update for low-constraint scenes.
 
 ## Languages and tools
 
